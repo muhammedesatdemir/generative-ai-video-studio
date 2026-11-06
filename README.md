@@ -1,6 +1,6 @@
 # AI-Powered Autonomous Video Production & Script Engine (Short-Form Drama Pipeline)
 
-[Türkçe Versiyon (Turkish)](README.tr.md) | **English Version**
+[Türkçe Versiyon (Turkish)](README_tr.md) | **English Version**
 
 > **PROPRIETARY & PRIVATE PROJECT NOTICE**  
 > **Notice:** This project is an independently engineered, closed-source personal software initiative. The complete implementation source code, neural orchestration scripts, model checkpoints, and workflow configs are maintained in a secure **private repository** and are not made publicly accessible for intellectual property protection. This public repository serves as an architectural whitepaper, technical showcase, and interface specification demonstrating the software engineering patterns, system resilience, and pipeline design. The codebase cannot be directly cloned or downloaded from this repository.
